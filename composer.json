@@ -1,14 +1,11 @@
 {
-    "name": "standingroomonly-group/merge-minify-refresh",
+    "name": "rkaiser0324/merge-minify-refresh",
     "type": "wordpress-plugin",
-    "license": "GPLv2",
-    "description": "WordPress plugin to merge, minify and refresh CSS and JavaScript files",
-    "authors": [],
-    "keywords": [
-        "wordpress"
-    ],
-    "support": {},
+    "description": "Merge Minify Refresh",
+    "config": {
+        "preferred-install": "source"
+    },
     "require": {
-        "php": ">=7.0.0"
+        "composer/installers": "*"
     }
 }
