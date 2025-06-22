@@ -1,5 +1,5 @@
 {
-    "name": "rkaiser0324/merge-minify-refresh",
+    "name": "bwobst/merge-minify-refresh",
     "type": "wordpress-plugin",
     "description": "Merge Minify Refresh",
     "config": {
